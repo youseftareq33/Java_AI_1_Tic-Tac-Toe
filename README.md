@@ -22,7 +22,7 @@ Possible actions involve placing an X or O in an empty cell of the grid. Players
 
 ### Goal Test
 
-The game ends when a player successfully places three of their symbols in a row, column, or diagonal, or when the grid is full, resulting in draws.
+The game ends when a player successfully places three of their symbols in a row, column, or diagonal, or when the grid is full, resulting in a draw.
 
 ### Path Cost
 
